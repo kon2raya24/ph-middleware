@@ -5,6 +5,7 @@
   "author": "kon2raya",
   "license": "MIT",
   "scripts": {
-    "test": "vitest run"
+    "test": "vitest run",
+    "lint": "eslint src/"
   }
 }
