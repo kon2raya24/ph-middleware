@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "Laravel middleware for Philippine business logic \u2014 logging, validation",
   "author": "kon2raya",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest run"
+  }
 }
