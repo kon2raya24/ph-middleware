@@ -19,3 +19,10 @@ MIT
 import { } from 'ph-middleware';
 // See API section for available functions
 ```
+
+
+## Installation
+
+```bash
+npm install ph-middleware
+```
