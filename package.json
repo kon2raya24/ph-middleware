@@ -8,5 +8,10 @@
     "test": "vitest run",
     "lint": "eslint src/",
     "build": "tsc"
-  }
+  },
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ]
 }
