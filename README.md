@@ -26,3 +26,9 @@ import { } from 'ph-middleware';
 ```bash
 npm install ph-middleware
 ```
+
+
+## API
+
+See source code and JSDoc comments for full API documentation.
+All exported functions include TypeScript types.
